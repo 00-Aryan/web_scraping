@@ -22,5 +22,3 @@ r = requests.post(url_post_captcha)
 with open('file1.html' , 'w' ,encoding="utf-8") as f:
     f.write(r.text)
 
-# soup = BeautifulSoup(r.text)
-# soup.
