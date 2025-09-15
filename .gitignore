@@ -2,3 +2,6 @@ captcha_image.png
 base_url.html
 response.html
 pdfs/
+test.py
+__pycache__/
+judgements.json
